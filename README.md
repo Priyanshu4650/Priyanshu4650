@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 📌 **Pinned Projects Below:**  
 - **Daily Problems - LeetCode (C++)** → Consistency in problem-solving.
 - **ShareNow (TypeScript/JavaScript)** → Real-world full-stack project that enables you sharing a text in your local area network.
-- **Binge-Karo (JavaScript/ReactJS)** → Real-world project having screen sharing, video call and chats with your loved ones. 
-- **AI-Based Code Review Platform** → Automating bug detection using AI.
+- **Binge-Karo (JavaScript/ReactJS)** → Real-world project having screen sharing, video call and chats with your loved ones.
 
 🚀 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourname/)  
